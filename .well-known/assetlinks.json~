@@ -1,0 +1,10 @@
+[
+    {
+        "relation": [ "delegate_permission/common.handle_all_urls" ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "sg.edu.nus.myvirtuallab_dev",
+            "sha256_cert_fingerprints": [ "14:A5:1D:19:C3:99:D7:42:40:17:F1:1F:12:5A:A3:4A:F3:4F:82:4C:DB:1B:F8:FB:B4:AB:E7:B7:7F:BE:19:75" ]
+        }
+    }
+]
